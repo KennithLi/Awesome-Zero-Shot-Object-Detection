@@ -1,4 +1,4 @@
-# Awesome-Zero-Shot Object Detection
+# Awesome Zero-Shot Object Detection
 
 ## Contents
 
@@ -10,7 +10,7 @@
   - [2019](#2019)
   - [2018](#2018)
   - [2009](#2009)
-- [Zero-shot Learning: a survey](#Zero-shot Learning: a survey)
+- [Zero-shot Learning: a survey](#survey)
 
 ## Contributing
 
@@ -79,11 +79,8 @@ To add a new paper via pull request:
 
 - **Learning to detect unseen object classes by between-class attribute transfer.** *C. H. Lampert, H. Nickisch and S. Harmeling.* CVPR, 2009.  [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.9750&rep=rep1&type=pdf)
 
-## Zero-shot Learning: a survey
+## <span id="survey">Zero-shot Learning: a survey</span>
 
 - **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** *Wang W, Zheng V W, Yu H, Miao C*. ACM Trans. Intell. Syst. Technol, 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3293318)
 
 - **Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly**. *Xian Y, Lampert C H, Schiele B, Akata Z.* TPAMI, 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121)
-
-
-
