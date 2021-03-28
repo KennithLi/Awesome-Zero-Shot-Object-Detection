@@ -4,7 +4,7 @@
 
 - [Contributing](#Contributing)
 - [Datasets](#Datasets)
-- [Paper List](#Paper List)
+- [Paper List](#PaperList)
   - [2021](#2021)
   - [2020](#2020)
   - [2019](#2019)
@@ -35,7 +35,7 @@ To add a new paper via pull request:
 - Microsoft COCO: [65/15-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [20/60, 40/40, 60/20-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
 - Pascal VOC: [16/4-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [5/15, 10/10, 15/5-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
 
-## Paper List
+## <span id="PaperList">Paper List</span>
 
 ### 2021
 
