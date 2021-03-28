@@ -1,4 +1,4 @@
-# Awesome-Zero-Shot Object Detection
+# Awesome Zero-Shot Object Detection
 
 ## Contents
 
