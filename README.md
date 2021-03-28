@@ -2,7 +2,15 @@
 
 ## Contents
 
-[toc]
+- [Contributing](#Contributing)
+- [Datasets](#Datasets)
+- [Paper List](#Paper List)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2009](#2009)
+- [Zero-shot Learning: a survey](#Zero-shot Learning: a survey)
 
 ## Contributing
 
@@ -19,6 +27,13 @@ To add a new paper via pull request:
    ```
 
 1. Send a pull request. Ideally, I will review the request within a week.
+
+## Datasets
+
+- [Fashion-MNIST](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)
+- [ILSVRC2017 DET](https://github.com/salman-h-khan/ZSD_Release)
+- Microsoft COCO: [65/15-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [20/60, 40/40, 60/20-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
+- Pascal VOC: [16/4-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [5/15, 10/10, 15/5-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
 
 ## Paper List
 
@@ -41,7 +56,7 @@ To add a new paper via pull request:
 - **Semantics-Preserving Graph Propagation for Zero-Shot Object Detection.** *C. Yan, Q. Zheng, X. Chang, M. Luo, C. Yeh and A. G. Hauptmann.* TIP, 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153181) 
 - **Zero-Shot Object Detection via Learning an Embedding from Semantic Space to Visual Space**. *L. a. W. Zhang, Xianzhi and Yao, Lina and Wu, Lin and Zheng, Feng.* IJCAI, 2020. [[Paper]](https://www.ijcai.org/Proceedings/2020/0126.pdf) 
 - **GTNet: Generative Transfer Network for Zero-Shot Object Detection.** *S. Zhao, C. Gao, Y. Shao, L. Li, C. Yu, Z. Ji, et al*. AAAI, 2020. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6996/6850) 
-- Background Learnable Cascade for Zero-Shot Object Detection. Y. Zheng, R. Huang, C. Han, X. Huang and L. Cui. ACCV, 2020. [[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Background_Learnable_Cascade_for_Zero-Shot_Object_Detection_ACCV_2020_paper.pdf) [[Code]](https://github.com/zhengye1995/BLC)
+- **Background Learnable Cascade for Zero-Shot Object Detection**. *Y. Zheng, R. Huang, C. Han, X. Huang and L. Cui*. ACCV, 2020. [[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Background_Learnable_Cascade_for_Zero-Shot_Object_Detection_ACCV_2020_paper.pdf) [[Code]](https://github.com/zhengye1995/BLC)
 
 ### 2019
 
@@ -66,8 +81,9 @@ To add a new paper via pull request:
 
 ## Zero-shot Learning: a survey
 
-2. Wang W, Zheng V W, Yu H, Miao C. A Survey of Zero-Shot Learning: Settings, Methods, and Applications[J]. ACM Trans. Intell. Syst. Technol., 2019 (2): 1-37.
-   - ACM TIST 2019: [pdf](http://delivery.acm.org/10.1145/3300000/3293318/a13-wang.pdf?ip=159.226.181.67&id=3293318&acc=ACTIVE SERVICE&key=33E289E220520BFB.949A0B1AADF887FF.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1568272257_ea47c8dc5376d0dc30c82d6644dd01aa)
-3. Xian Y, Lampert C H, Schiele B, Akata Z. Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019 (9): 2251-2265.
-   - TPAMI 2019: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121)
+- **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** *Wang W, Zheng V W, Yu H, Miao C*. ACM Trans. Intell. Syst. Technol, 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3293318)
+
+- **Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly**. *Xian Y, Lampert C H, Schiele B, Akata Z.* TPAMI, 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121)
+
+
 
