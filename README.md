@@ -32,13 +32,16 @@ To add a new paper via pull request:
 
 - [Fashion-MNIST](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)
 - [ILSVRC2017 DET](https://github.com/salman-h-khan/ZSD_Release)
-- Microsoft COCO: [65/15-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [20/60, 40/40, 60/20-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
+- [Visual Genome](http://ankan.umiacs.io/zsd.html)
+- Microsoft COCO: [48/17-seen/unseen split](http://ankan.umiacs.io/zsd.html), [65/15-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [20/60, 40/40, 60/20-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
 - Pascal VOC: [16/4-seen/unseen split](https://github.com/salman-h-khan/PL-ZSD_Release), [5/15, 10/10, 15/5-seen/unseen split](https://github.com/pengkaizhu/zsd_dataset)
 
 ## <span id="PaperList">Paper List</span>
 
 ### 2021
 
+- **Zero-Shot Instance Segmentation.** *Ye Zheng, Jiahong Wu, Yongqiang Qin, Faen Zhang, Li Cui.* CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.06601.pdf) [[Code]](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)
+- **Rethinking semantic-visual alignment in zero-shot object detection via a softplus margin focal loss.** *Qianzhong Li, Yujia Zhang, Shiying Sun, Xiaoguang Zhao, Kang Li, Min Tan.* Neurocomputing, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004598) (Ours)
 - **Incrementally Zero-Shot Detection by an Extreme Value Analyzer.** *Z. Sixiao, F. Yanwei and H. Yanxi.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.12609) 
 
 ### 2020
