@@ -40,8 +40,10 @@ To add a new paper via pull request:
 
 ### 2021
 
+- **Zero-Shot Detection via Vision and Language Knowledge Distillation.** *Xiuye Gu, Tsung-Yi Lin, Weicheng Kuo, Yin Cui.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2104.13921.pdf)
+- **Inference Fusion with Associative Semantics for Unseen Object Detection.** *Yanan Li1, Pengyang Li, Han Cui, Donghui Wang.* AAAI, 2021. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-3588.LiY.pdf)
 - **Zero-Shot Instance Segmentation.** *Ye Zheng, Jiahong Wu, Yongqiang Qin, Faen Zhang, Li Cui.* CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.06601.pdf) [[Code]](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)
-- **Rethinking semantic-visual alignment in zero-shot object detection via a softplus margin focal loss.** *Qianzhong Li, Yujia Zhang, Shiying Sun, Xiaoguang Zhao, Kang Li, Min Tan.* Neurocomputing, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004598) (Ours)
+- **Rethinking semantic-visual alignment in zero-shot object detection via a softplus margin focal loss.** *Qianzhong Li, Yujia Zhang, Shiying Sun, Xiaoguang Zhao, Kang Li, Min Tan.* Neurocomputing, 2021, 449(117-135). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004598) (Ours)
 - **Incrementally Zero-Shot Detection by an Extreme Value Analyzer.** *Z. Sixiao, F. Yanwei and H. Yanxi.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.12609) 
 
 ### 2020
