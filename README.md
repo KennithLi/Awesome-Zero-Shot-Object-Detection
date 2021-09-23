@@ -40,7 +40,7 @@ To add a new paper via pull request:
 
 ### 2021
 
-- **A Survey Of zero shot detection: Methods and applications.** *Chufeng Tan, Xing Xu, Fumin Shen.* 
+- **A survey of zero shot detection: methods and applications.** *Chufeng Tan, Xing Xu, Fumin Shen.* 
 Cognitive Robotics, 2021. [[Paper]](https://reader.elsevier.com/reader/sd/pii/S2667241321000124?token=56CFD57D6F799D3D960BBB91DA6991565EF401F7DBE40D0A76A719AB4569644E30578A669AEE5C714EADD401033BDB48&originRegion=us-east-1&originCreation=20210923063320)
 - **A novel feature-based model for zero-shot object detection with simulated attributes.** *Cheng Yang, Weijia Wu, Yuxing Wang, and Hong Zhou.* Applied Intelligence, 2021. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10489-021-02746-z.pdf)
 - **Zero-Shot Object Detection With Transformers.** *Ye Zheng, Li Cui.* ICIP, 2021. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506277)
