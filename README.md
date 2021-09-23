@@ -40,11 +40,16 @@ To add a new paper via pull request:
 
 ### 2021
 
+- **A Survey Of zero shot detection: Methods and applications.** *Chufeng Tan, Xing Xu, Fumin Shen.* 
+Cognitive Robotics, 2021. [[Paper]](https://reader.elsevier.com/reader/sd/pii/S2667241321000124?token=56CFD57D6F799D3D960BBB91DA6991565EF401F7DBE40D0A76A719AB4569644E30578A669AEE5C714EADD401033BDB48&originRegion=us-east-1&originCreation=20210923063320)
+- **A novel feature-based model for zero-shot object detection with simulated attributes.** *Cheng Yang, Weijia Wu, Yuxing Wang, and Hong Zhou.* Applied Intelligence, 2021. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10489-021-02746-z.pdf)
+- **Zero-Shot Object Detection With Transformers.** *Ye Zheng, Li Cui.* ICIP, 2021. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506277)
+- **Semantics-Guided Contrastive Network for Zero-Shot Object detection.** *Caixia Yan, Xiaojun Chang, Minnan Luo, Huan Liu, Xiaoqin Zhang, and Qinghua Zheng.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2109.06062.pdf)
 - **Zero-Shot Detection via Vision and Language Knowledge Distillation.** *Xiuye Gu, Tsung-Yi Lin, Weicheng Kuo, Yin Cui.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2104.13921.pdf)
-- **Inference Fusion with Associative Semantics for Unseen Object Detection.** *Yanan Li1, Pengyang Li, Han Cui, Donghui Wang.* AAAI, 2021. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-3588.LiY.pdf)
+- **Inference Fusion with Associative Semantics for Unseen Object Detection.** *Yanan Li, Pengyang Li, Han Cui, Donghui Wang.* AAAI, 2021. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-3588.LiY.pdf)
 - **Zero-Shot Instance Segmentation.** *Ye Zheng, Jiahong Wu, Yongqiang Qin, Faen Zhang, Li Cui.* CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2104.06601.pdf) [[Code]](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)
 - **Rethinking semantic-visual alignment in zero-shot object detection via a softplus margin focal loss.** *Qianzhong Li, Yujia Zhang, Shiying Sun, Xiaoguang Zhao, Kang Li, Min Tan.* Neurocomputing, 2021, 449(117-135). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004598) (Ours)
-- **Incrementally Zero-Shot Detection by an Extreme Value Analyzer.** *Z. Sixiao, F. Yanwei and H. Yanxi.* Arxiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.12609) 
+- **Incrementally Zero-Shot Detection by an Extreme Value Analyzer.** *Sixiao Zheng, Yanwei Fu, Yanxi Hou.* ICPR, 2021. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413288)
 
 ### 2020
 
